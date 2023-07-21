@@ -1,0 +1,61 @@
+# Python and Django related files
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+*.egg-info/
+dist/
+build/
+migrations/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+local_settings.py
+
+# Media files
+media/
+
+# Static files (usually collected by 'collectstatic')
+staticfiles/
+
+# Virtual environment
+venv/
+env/
+*.env
+*.env.*
+
+# macOS related files
+.DS_Store
+
+# IDE files (such as Visual Studio Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor backups
+*~
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
